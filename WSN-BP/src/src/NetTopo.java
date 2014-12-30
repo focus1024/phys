@@ -9,7 +9,7 @@ import java.util.ListIterator;
 import javax.swing.text.html.HTMLDocument.Iterator;
 
 
-
+//2
 public class NetTopo {
 	int NodeNum;
 	int linkNum;
